@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Oshavery Documents',
   tagline: 'Discordライクなチャットアプリケーション',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://undecided-discord.github.io',
+  baseUrl: '/oshavery-docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Undecided-discord', // Usually your GitHub org/user name.
-  projectName: 'Oshavery', // Usually your repo name.
+  projectName: 'oshavery-docs', // Usually your repo name.
 
   presets: [
     [
