@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Oshavery Documents',
   tagline: 'Discordライクなチャットアプリケーション',
   url: 'https://undecided-discord.github.io',
-  baseUrl: '/oshavery-docs',
+  baseUrl: '/oshavery-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
