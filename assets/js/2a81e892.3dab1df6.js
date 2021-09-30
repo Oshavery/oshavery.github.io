@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoshavery_docs=self.webpackChunkoshavery_docs||[]).push([[860],{4361:function(s){s.exports=JSON.parse('{"allTagsPath":"/oshavery-docs/blog/tags","slug":"/oshavery-docs/blog/tags/oshavery","name":"Oshavery","count":1,"permalink":"/oshavery-docs/blog/tags/oshavery"}')}}]);

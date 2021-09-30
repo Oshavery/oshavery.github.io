@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoshavery_docs=self.webpackChunkoshavery_docs||[]).push([[975],{1673:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/oshavery","name":"Oshavery","count":1,"permalink":"/blog/tags/oshavery"}')}}]);
