@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Oshavery Documents',
   tagline: 'Discordライクなチャットアプリケーション',
-  url: 'https://ohavery.github.io',
+  url: 'https://oshavery.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
