@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://undecided-discord.github.io/blog</id>
+    <id>https://oshavery.github.io/blog</id>
     <title>Oshavery Documents Blog</title>
     <updated>2021-09-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://undecided-discord.github.io/blog"/>
+    <link rel="alternate" href="https://oshavery.github.io/blog"/>
     <subtitle>Oshavery Documents Blog</subtitle>
-    <icon>https://undecided-discord.github.io/img/favicon.ico</icon>
+    <icon>https://oshavery.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://undecided-discord.github.io/blog/welcome"/>
+        <link href="https://oshavery.github.io/blog/welcome"/>
         <updated>2021-09-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Oshaveryの非公式ドキュメントへようこそ....]]></summary>
         <author>

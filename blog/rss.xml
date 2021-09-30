@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Oshavery Documents Blog</title>
-        <link>https://undecided-discord.github.io/blog</link>
+        <link>https://oshavery.github.io/blog</link>
         <description>Oshavery Documents Blog</description>
         <lastBuildDate>Mon, 27 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://undecided-discord.github.io/blog/welcome</link>
+            <link>https://oshavery.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Oshaveryの非公式ドキュメントへようこそ....]]></description>
