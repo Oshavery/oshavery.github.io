@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Undecided-discord', // Usually your GitHub org/user name.
+  organizationName: 'oshavery', // Usually your GitHub org/user name.
   projectName: 'oshavery-docs', // Usually your repo name.
 
   presets: [
@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/undecided-discord/oshavery',
+          editUrl: 'https://github.com/oshavery/oshavery-docs',
         },
         blog: {
           showReadingTime: true,
